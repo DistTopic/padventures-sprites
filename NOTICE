@@ -1,51 +1,76 @@
 PAdventures Sprites
 Copyright (c) 2026 DistTopic and the PAdventures community
+(original contributions only — see the IP notice below)
 
-This work is licensed under the Creative Commons Attribution 4.0
-International License (CC BY 4.0). To view a copy of this license, see the
-LICENSE file in this repository or visit:
+This work's ORIGINAL CONTRIBUTIONS are licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+To view a copy of this license, see the LICENSE file in this repository or visit:
 
-    https://creativecommons.org/licenses/by/4.0/
+    https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+This is an unofficial, NON-COMMERCIAL, fan-made project. The license below covers
+only the original contributions in this repository (curation, organization,
+catalog, metadata, documentation, and any original artwork). It does NOT grant
+any rights over third-party intellectual property. See DISCLAIMER.md.
 
 ================================================================================
 ATTRIBUTION
 ================================================================================
 
-You are free to use, share, and adapt these assets for any purpose, including
-commercial use, provided you give appropriate credit. Ready-to-paste credit
-lines:
+You are free to use, share, and adapt these assets for NON-COMMERCIAL purposes,
+provided you give appropriate credit and license derivatives under the same
+terms. Ready-to-paste credit lines:
 
 Short form:
-    "PAdventures Sprites" by DistTopic — CC BY 4.0
+    "PAdventures Sprites" by DistTopic — CC BY-NC-SA 4.0
 
 Plain text (credits screen / CREDITS.txt):
-    Art assets: "PAdventures Sprites" by DistTopic, licensed under CC BY 4.0.
+    Art assets: "PAdventures Sprites" by DistTopic, licensed under
+    CC BY-NC-SA 4.0. Non-commercial use only.
     Source: https://github.com/DistTopic/padventures-sprites
 
 HTML:
     <a href="https://github.com/DistTopic/padventures-sprites">PAdventures Sprites</a>
     by DistTopic is licensed under
-    <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
 
 Markdown:
     ["PAdventures Sprites"](https://github.com/DistTopic/padventures-sprites)
     by DistTopic is licensed under
-    [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+    [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 If you modified the assets, please also indicate that changes were made.
 
 ================================================================================
-INTELLECTUAL PROPERTY & FAN-CONTENT NOTICE
+POKEMON INTELLECTUAL PROPERTY — CREDITS TO THE RIGHTS HOLDERS
 ================================================================================
 
-PAdventures is a fan-made, non-commercial project. Some artwork may be inspired
-by or derived from third-party franchises. All trademarks, character designs,
-and brands referenced or evoked are the property of their respective owners.
-Their inclusion does not imply any affiliation with, sponsorship by, or
-endorsement from those rights holders.
+This is an unofficial, non-commercial, fan-made project and is NOT affiliated
+with, endorsed, sponsored, or approved by any of the rights holders below.
 
-The CC BY 4.0 license covers the original, openly contributed creative work in
-this repository. If you are a rights holder and have a concern about a specific
-asset, please open an issue at:
+Pokemon and all related names, characters, designs, sprites, and imagery are
+trademarks and copyrights of their respective owners:
+
+    - Nintendo Co., Ltd.
+    - GAME FREAK inc.
+    - Creatures Inc.
+    - The Pokemon Company
+
+    Pokemon (c) 1995-2026 Nintendo / Creatures Inc. / GAME FREAK inc.
+    "Pokemon", "Pocket Monsters", and the names, characters, and designs of all
+    Pokemon are trademarks and/or registered trademarks of Nintendo Co., Ltd.,
+    GAME FREAK inc., Creatures Inc., and The Pokemon Company.
+
+The maintainers and contributors claim NO ownership over the Pokemon franchise
+or any other third-party intellectual property.
+
+================================================================================
+NOTICE & TAKEDOWN
+================================================================================
+
+If you are a rights holder and have a concern about a specific asset, please open
+an issue and we will promptly review and remove the material in question:
 
     https://github.com/DistTopic/padventures-sprites/issues
+
+See DISCLAIMER.md for the full intellectual property notice and takedown policy.

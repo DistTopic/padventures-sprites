@@ -9,7 +9,7 @@ type: dataset
 authors:
   - name: "DistTopic"
     website: "https://github.com/DistTopic"
-license: CC-BY-4.0
+license: CC-BY-NC-SA-4.0
 repository-code: "https://github.com/DistTopic/padventures-sprites"
 url: "https://github.com/DistTopic/padventures-sprites"
 version: "1.0.0"
@@ -21,3 +21,5 @@ keywords:
   - pixel-art
   - 2d-game-art
   - padventures
+  - fan-project
+  - non-commercial

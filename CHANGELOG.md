@@ -19,7 +19,11 @@ and this project adheres to [Conventional Commits](https://www.conventionalcommi
   `data/metadata.json` (per-asset geometry).
 - Optional `data/names.json` placeholder for human-readable asset names.
 - Inner-source documentation: `README`, `CONTRIBUTING`, `CODE_OF_CONDUCT`,
-  `SECURITY`, `NOTICE`, `CITATION.cff`, and the `docs/` reference set.
-- CC BY 4.0 license.
+  `SECURITY`, `NOTICE`, `DISCLAIMER`, `CITATION.cff`, and the `docs/` reference set.
+- `DISCLAIMER.md` with the unofficial/non-commercial fan-project statement,
+  explicit credits to the Pokémon rights holders (Nintendo, GAME FREAK inc.,
+  Creatures Inc., The Pokémon Company), license-scope clarification, and a
+  notice &amp; takedown policy.
+- CC BY-NC-SA 4.0 license, applied to the project's original contributions only.
 
 [1.0.0]: https://github.com/DistTopic/padventures-sprites/releases/tag/v1.0.0

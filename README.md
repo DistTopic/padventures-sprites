@@ -4,7 +4,7 @@
 
 **An open, attribution-licensed sprite-sheet library for the PAdventures universe — creatures, items, effects, and missiles, ready to drop into 2D games, tools, and prototypes.**
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](./LICENSE)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](./LICENSE)
 [![Sprite sheets](https://img.shields.io/badge/sprite%20sheets-50%2C854-brightgreen.svg)](#-whats-inside)
 [![Categories](https://img.shields.io/badge/categories-4-orange.svg)](#-whats-inside)
 [![Format: PNG](https://img.shields.io/badge/format-PNG-lightgrey.svg)](#-using-the-assets)
@@ -15,9 +15,18 @@
 
 ---
 
+> [!IMPORTANT]
+> **Unofficial, non-commercial fan project.** Pokémon and all related names,
+> characters, and imagery are © and ™ of **Nintendo**, **GAME FREAK inc.**,
+> **Creatures Inc.**, and **The Pokémon Company**. This project is not affiliated
+> with, endorsed, or sponsored by them, and is **not for commercial use**.
+> The project license (**CC BY-NC-SA 4.0**) covers only the original
+> contributions in this repository — never the underlying Pokémon intellectual
+> property. Full details in [`DISCLAIMER.md`](./DISCLAIMER.md).
+
 **PAdventures Sprites** is a curated, openly licensed collection of **50,854** sprite sheets covering the creatures, items, effects, and missiles of the PAdventures universe. Every sheet ships as a transparent PNG and is paired with a machine-readable catalog (`index.json`) and per-asset geometry metadata (`metadata.json`), so you can index, slice, and render the artwork programmatically.
 
-Use it freely in your own games, mods, tools, tutorials, and prototypes — **all we ask is that you give credit** (see [Attribution](#-how-to-give-credit-attribution)).
+Use it freely in your own **non-commercial** games, mods, tools, tutorials, and prototypes — **all we ask is that you give credit and keep it non-commercial** (see [Attribution](#-how-to-give-credit-attribution)).
 
 ## Table of contents
 
@@ -30,7 +39,7 @@ Use it freely in your own games, mods, tools, tutorials, and prototypes — **al
 - [How to give credit (Attribution)](#-how-to-give-credit-attribution)
 - [Branching model &amp; contributing](#-branching-model--contributing)
 - [License](#-license)
-- [Intellectual property &amp; fan-content notice](#-intellectual-property--fan-content-notice)
+- [Intellectual property, credits &amp; fan-content notice](#-intellectual-property-credits--fan-content-notice)
 - [Acknowledgements](#-acknowledgements)
 
 ## ✨ Highlights
@@ -39,7 +48,7 @@ Use it freely in your own games, mods, tools, tutorials, and prototypes — **al
 - **Four clean categories** — `creature`, `item`, `effect`, and `missile`.
 - **Machine-readable catalog** — `data/index.json` groups every asset by category; `data/metadata.json` describes each sheet's geometry (tiles, layers, patterns, animation phases, sprite count).
 - **Stable, predictable naming** — every asset has a globally unique numeric ID, and its sheet lives at `sprites/<category>/<id>.png`.
-- **Permissively licensed** — released under **[CC BY 4.0](./LICENSE)**: free for personal *and* commercial use, just credit the source.
+- **Openly licensed for non-commercial use** — released under **[CC BY-NC-SA 4.0](./LICENSE)**: free to use and adapt for non-commercial projects, with credit; derivatives stay open under the same license.
 - **Inner-source ready** — documented contribution workflow, protected `main`/`develop` branches, Conventional Commits, issue/PR templates, and a code of conduct.
 
 ## 📦 What's inside
@@ -137,11 +146,11 @@ Detailed loading, slicing, and rendering walkthroughs are in [`docs/sprite-sheet
 
 ## 📝 How to give credit (Attribution)
 
-This collection is licensed under **CC BY 4.0**, which means you can share and adapt it for any purpose — including commercially — **as long as you give appropriate credit**.
+This collection is licensed under **CC BY-NC-SA 4.0**, which means you can share and adapt it for **non-commercial** purposes **as long as you give appropriate credit and license your derivatives under the same terms**.
 
 A simple, sufficient attribution:
 
-> "PAdventures Sprites" by **DistTopic**, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source: https://github.com/DistTopic/padventures-sprites
+> "PAdventures Sprites" by **DistTopic**, licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Source: https://github.com/DistTopic/padventures-sprites
 
 In a game's credits screen, a `CREDITS.txt`, or an "About" dialog is perfect. See [`NOTICE`](./NOTICE) for ready-to-paste snippets.
 
@@ -156,15 +165,45 @@ All changes flow through pull requests using [Conventional Commits](https://www.
 
 ## ⚖️ License
 
-Released under the **[Creative Commons Attribution 4.0 International (CC BY 4.0)](./LICENSE)** license.
+Released under the **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](./LICENSE)** license.
 
-You are free to **share** (copy and redistribute) and **adapt** (remix, transform, build upon) the material for **any purpose, even commercially**, provided you give appropriate credit, link to the license, and indicate if changes were made.
+You are free to **share** (copy and redistribute) and **adapt** (remix, transform, build upon) the material, provided that you:
 
-## 🛡 Intellectual property &amp; fan-content notice
+- **Attribution** — give appropriate credit, link to the license, and indicate if changes were made.
+- **NonCommercial** — do not use the material for commercial purposes.
+- **ShareAlike** — distribute your contributions under the same license as the original.
 
-PAdventures is a fan-made, non-commercial project. Some artwork may be inspired by or derived from third-party franchises. All trademarks, character designs, and brands referenced or evoked are the property of their respective owners; their inclusion does not imply any affiliation with, sponsorship by, or endorsement from those rights holders.
+> **Scope:** this license applies **only to the original contributions** in this repository (curation, organization, catalog, metadata, documentation, and any original artwork). It does **not** grant any rights over the underlying Pokémon intellectual property. See [`DISCLAIMER.md`](./DISCLAIMER.md).
 
-The CC BY 4.0 license covers the original, openly contributed creative work in this repository. If you are a rights holder and have a concern about any specific asset, please open an issue or contact the maintainers — see [`NOTICE`](./NOTICE).
+## 🛡 Intellectual property, credits &amp; fan-content notice
+
+**PAdventures Sprites is an unofficial, non-commercial, fan-made project.** It is
+not affiliated with, endorsed, sponsored, or approved by any of the rights
+holders named below.
+
+Pokémon and all related names, characters, designs, sprites, and imagery are the
+property of their respective owners:
+
+- **Nintendo Co., Ltd.**
+- **GAME FREAK inc.**
+- **Creatures Inc.**
+- **The Pokémon Company** (株式会社ポケモン)
+
+> Pokémon © 1995–2026 Nintendo / Creatures Inc. / GAME FREAK inc. "Pokémon",
+> "Pocket Monsters", and the names, characters, and designs of all Pokémon are
+> trademarks and/or registered trademarks of Nintendo, GAME FREAK inc.,
+> Creatures Inc., and The Pokémon Company.
+
+Any other third-party brands or trademarks that may be referenced or evoked
+remain the property of their respective owners. The maintainers claim **no
+ownership** over any third-party intellectual property.
+
+**Rights holders:** if you believe any content here infringes your rights, please
+open an [issue](https://github.com/DistTopic/padventures-sprites/issues) or
+contact the maintainers and we will **promptly remove** the material in question.
+
+Full details, credits, and the notice &amp; takedown policy are in
+[`DISCLAIMER.md`](./DISCLAIMER.md) and [`NOTICE`](./NOTICE).
 
 ## 🙏 Acknowledgements
 

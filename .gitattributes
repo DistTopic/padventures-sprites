@@ -1,0 +1,16 @@
+# Treat sprite sheets as binary assets (no line-ending munging, no text diffs)
+*.png binary
+*.png -diff
+
+# Normalize line endings for text files
+*.md      text eol=lf
+*.json    text eol=lf
+*.yml     text eol=lf
+*.yaml    text eol=lf
+*.cff     text eol=lf
+LICENSE   text eol=lf
+NOTICE    text eol=lf
+
+# Keep GitHub language stats focused on documentation, not the asset dump
+sprites/** linguist-vendored
+data/*.json linguist-generated

@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temp / build artifacts
+*.tmp
+*.log
+node_modules/
+.cache/

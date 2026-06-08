@@ -7,7 +7,6 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](./LICENSE)
 [![Sprite sheets](https://img.shields.io/badge/sprite%20sheets-50%2C854-brightgreen.svg)](#-whats-inside)
 [![Categories](https://img.shields.io/badge/categories-4-orange.svg)](#-whats-inside)
-[![Format: PNG](https://img.shields.io/badge/format-PNG-lightgrey.svg)](#-using-the-assets)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-fe5196.svg)](https://www.conventionalcommits.org)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-success.svg)](./CONTRIBUTING.md)
 

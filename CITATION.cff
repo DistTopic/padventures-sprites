@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these assets, please give credit as described below."
+title: "PAdventures Sprites"
+abstract: >-
+  An open, attribution-licensed collection of 50,854 sprite sheets
+  (creatures, items, effects, and missiles) for the PAdventures universe,
+  with a machine-readable catalog and per-asset geometry metadata.
+type: dataset
+authors:
+  - name: "DistTopic"
+    website: "https://github.com/DistTopic"
+license: CC-BY-4.0
+repository-code: "https://github.com/DistTopic/padventures-sprites"
+url: "https://github.com/DistTopic/padventures-sprites"
+version: "1.0.0"
+date-released: "2026-06-07"
+keywords:
+  - sprites
+  - sprite-sheets
+  - game-assets
+  - pixel-art
+  - 2d-game-art
+  - padventures

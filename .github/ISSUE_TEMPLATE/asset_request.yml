@@ -1,0 +1,30 @@
+name: Asset request
+description: Request a new sprite sheet or a missing variant.
+title: "feat: <short description>"
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - creature
+        - item
+        - effect
+        - missile
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What asset would you like to see?
+      description: Describe the sprite, including references if you have any.
+    validations:
+      required: true
+  - type: textarea
+    id: use-case
+    attributes:
+      label: How would you use it?
+      description: Optional context that helps us prioritize.
+    validations:
+      required: false

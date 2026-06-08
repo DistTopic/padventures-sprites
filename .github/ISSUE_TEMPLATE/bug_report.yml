@@ -1,0 +1,41 @@
+name: Asset or data issue
+description: Report a broken sheet, wrong metadata, or an inconsistency.
+title: "fix: <short description>"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping keep the collection accurate!
+  - type: input
+    id: asset-id
+    attributes:
+      label: Asset ID
+      placeholder: "e.g. 40036"
+    validations:
+      required: false
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - creature
+        - item
+        - effect
+        - missile
+        - not sure
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: What is wrong?
+      description: Describe the problem. Screenshots are welcome.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+      description: What did you expect instead?
+    validations:
+      required: false

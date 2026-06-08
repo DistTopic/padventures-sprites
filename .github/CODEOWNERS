@@ -1,0 +1,10 @@
+# Default owners for everything in this repository.
+# These owners are requested for review on every pull request.
+*       @BrewertonSantos
+
+# Documentation
+/docs/  @BrewertonSantos
+*.md    @BrewertonSantos
+
+# Catalog data
+/data/  @BrewertonSantos

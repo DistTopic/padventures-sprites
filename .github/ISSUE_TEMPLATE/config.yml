@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://github.com/DistTopic/padventures-sprites#readme
+    about: Read the README and the docs/ reference before opening an issue.
+  - name: Contributing guide
+    url: https://github.com/DistTopic/padventures-sprites/blob/main/CONTRIBUTING.md
+    about: Learn the branching model and how to submit changes.
